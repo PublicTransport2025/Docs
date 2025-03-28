@@ -1,0 +1,97 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36" version="26.1.1">
+  <diagram name="Страница — 1" id="-wD-WqXyHZi5dII5W0TI">
+    <mxGraphModel dx="1386" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XAet22MjxcHQrK9FgkDJ-1" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="87" y="148" width="200" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="XAet22MjxcHQrK9FgkDJ-2" value="MobileDevice" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="87" y="158" width="190" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="XAet22MjxcHQrK9FgkDJ-3" value="«MobileApp»&lt;br&gt;&lt;b&gt;Kotlin&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="XAet22MjxcHQrK9FgkDJ-2" vertex="1">
+          <mxGeometry x="20" y="40" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XAet22MjxcHQrK9FgkDJ-4" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="XAet22MjxcHQrK9FgkDJ-3" vertex="1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XAet22MjxcHQrK9FgkDJ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=2;" parent="XAet22MjxcHQrK9FgkDJ-2" source="XAet22MjxcHQrK9FgkDJ-6" target="XAet22MjxcHQrK9FgkDJ-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XAet22MjxcHQrK9FgkDJ-6" value="«CityMaps»&lt;br&gt;&lt;b&gt;YandexMapKitSDK&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="XAet22MjxcHQrK9FgkDJ-2" vertex="1">
+          <mxGeometry x="20" y="130" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XAet22MjxcHQrK9FgkDJ-7" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="XAet22MjxcHQrK9FgkDJ-6" vertex="1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XAet22MjxcHQrK9FgkDJ-8" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="330" y="250" width="200" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="XAet22MjxcHQrK9FgkDJ-9" value="ApplicationServer" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="260" width="190" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="XAet22MjxcHQrK9FgkDJ-10" value="«DataBaseServer»&lt;br&gt;&lt;b&gt;PostreSQL&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="XAet22MjxcHQrK9FgkDJ-9" vertex="1">
+          <mxGeometry x="20" y="40" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XAet22MjxcHQrK9FgkDJ-11" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="XAet22MjxcHQrK9FgkDJ-10" vertex="1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XAet22MjxcHQrK9FgkDJ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=2;" parent="XAet22MjxcHQrK9FgkDJ-9" source="XAet22MjxcHQrK9FgkDJ-13" target="XAet22MjxcHQrK9FgkDJ-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XAet22MjxcHQrK9FgkDJ-13" value="«WebAPIServer»&lt;br&gt;&lt;b&gt;FastAPI&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="XAet22MjxcHQrK9FgkDJ-9" vertex="1">
+          <mxGeometry x="20" y="130" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XAet22MjxcHQrK9FgkDJ-14" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="XAet22MjxcHQrK9FgkDJ-13" vertex="1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XAet22MjxcHQrK9FgkDJ-22" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="330" y="87" width="200" height="132" as="geometry" />
+        </mxCell>
+        <mxCell id="XAet22MjxcHQrK9FgkDJ-23" value="LocationServer" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="97" width="190" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="XAet22MjxcHQrK9FgkDJ-24" value="«WebAPIServer»&lt;br&gt;&lt;b&gt;FastAPI&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="XAet22MjxcHQrK9FgkDJ-23" vertex="1">
+          <mxGeometry x="20" y="40" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XAet22MjxcHQrK9FgkDJ-25" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="XAet22MjxcHQrK9FgkDJ-24" vertex="1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XAet22MjxcHQrK9FgkDJ-33" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="580" y="340" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="XAet22MjxcHQrK9FgkDJ-34" value="OperatorWEB" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="580" y="350" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XAet22MjxcHQrK9FgkDJ-35" value="«HTTPClient»&lt;br&gt;&lt;b&gt;VueJS&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="XAet22MjxcHQrK9FgkDJ-34" vertex="1">
+          <mxGeometry x="20" y="40" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XAet22MjxcHQrK9FgkDJ-36" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="XAet22MjxcHQrK9FgkDJ-35" vertex="1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XAet22MjxcHQrK9FgkDJ-37" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;strokeWidth=2;" parent="1" source="XAet22MjxcHQrK9FgkDJ-3" target="XAet22MjxcHQrK9FgkDJ-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XAet22MjxcHQrK9FgkDJ-38" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;strokeWidth=2;" parent="1" source="XAet22MjxcHQrK9FgkDJ-3" target="XAet22MjxcHQrK9FgkDJ-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XAet22MjxcHQrK9FgkDJ-41" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;strokeWidth=2;" parent="1" source="XAet22MjxcHQrK9FgkDJ-13" target="XAet22MjxcHQrK9FgkDJ-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
