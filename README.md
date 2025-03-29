@@ -27,15 +27,15 @@
 [![Email](https://img.shields.io/badge/-Техническая_почта-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:3threeka@gmail.com)
 
 ### 👥 Участники команды
-- **Артамонов Артём** — Менеджер  
+- **Артамонов Артём** — Менеджер, Специалист по машинному обучению  
   [![Telegram](https://img.shields.io/badge/Telegram-@IN_THESESHADOWS-0088cc?style=flat&logo=telegram)](https://t.me/IN_THESESHADOWS)  
 - **Архипов Артём** — Тестировщик  
   [![Telegram](https://img.shields.io/badge/Telegram-@ArhipAra-0088cc?style=flat&logo=telegram)](https://t.me/ArhipAra)  
-- **Бабкин Илья** — Писарь, Документалист  
+- **Бабкин Илья** — Писарь, Собиратель данных  
   [![Telegram](https://img.shields.io/badge/Telegram-@torg_ymecten-0088cc?style=flat&logo=telegram)](https://t.me/torg_ymecten)  
 - **Деркач Дмитрий** — Дизайнер  
   [![Telegram](https://img.shields.io/badge/Telegram-@midnight70-0088cc?style=flat&logo=telegram)](https://t.me/midnight70)  
 - **Кирьянов Алексей** — Главный разработчик  
   [![Telegram](https://img.shields.io/badge/Telegram-@aleksey183681-0088cc?style=flat&logo=telegram)](https://t.me/aleksey183681)  
-- **Шахова Анастасия** — Аналитик  
+- **Шахова Анастасия** — Аналитик, Технический писатель  
   [![Telegram](https://img.shields.io/badge/Telegram-@nastashdochafruktcom-0088cc?style=flat&logo=telegram)](https://t.me/nastashdochafruktcom)
