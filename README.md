@@ -6,7 +6,7 @@
 ## 🔗 Полезные ссылки
 
 ### 📼 Видео защиты ТЗ
-[![![Google Drive](https://img.shields.io/badge/-Видеопрезентация_ТЗ-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1yxZZP442D4Zxdx_cOVYGXXymLhx-tv3n/view?usp=sharing)
+[![Google Drive](https://img.shields.io/badge/-Видеопрезентация_ТЗ-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1yxZZP442D4Zxdx_cOVYGXXymLhx-tv3n/view?usp=sharing)
 ### 🛠️ Наш таск-трекер
 [![Jira](https://img.shields.io/badge/-Таск_трекер-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://routewithouthaste.atlassian.net/jira/software/projects/BUSHELPER/boards/34/backlog)
 ### 🎨 Черновой дизайн
