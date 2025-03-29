@@ -30,7 +30,7 @@
 - **Артамонов Артём** — Менеджер, Специалист по машинному обучению  
   [![Telegram](https://img.shields.io/badge/Telegram-@IN_THESESHADOWS-0088cc?style=flat&logo=telegram)](https://t.me/IN_THESESHADOWS)  
 - **Архипов Артём** — Тестировщик  
-  [![Telegram](https://img.shields.io/badge/Telegram-@ArhipAra-0088cc?style=flat&logo=telegram)](https://t.me/ArhipAra)  
+  [![Telegram](https://img.shields.io/badge/Telegram-@ArhipAra-0088cc?style=flat&logo=telegram)](https://t.me/NISEGIF)  
 - **Бабкин Илья** — Писарь, Собиратель данных  
   [![Telegram](https://img.shields.io/badge/Telegram-@torg_ymecten-0088cc?style=flat&logo=telegram)](https://t.me/torg_ymecten)  
 - **Деркач Дмитрий** — Дизайнер  
