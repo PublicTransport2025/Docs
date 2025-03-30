@@ -53,7 +53,7 @@
 
 ### Чек-листы других команд
 - Команда 6.1: [Чек-лист команды 6.1](ссылка_на_чек_лист_6.1)
-- Команда 6.3: [Чек-лист команды 6.3](ссылка_на_чек_лист_6.3)
-- Команда 4.2: [Чек-лист команды 4.2](ссылка_на_чек_лист_4.2)
+- Команда 6.3: [Чек-лист команды 6.3](https://github.com/VisualMusic-VSU/visualmusic/blob/main/docs/business/check.xlsx)
+- Команда 4.2: [Чек-лист команды 4.2](https://docs.google.com/spreadsheets/d/1lwph-JD6tX1onNCKyex44mHNspuksem1BCGclfP7gRA/edit?gid=1886118477#gid=1886118477)
 - Команда 4.2(спец): [Чек-лист команды 4.2(спец)](https://github.com/anya-ananasss/Defense-Discover/blob/main/Documentation%2F%D0%A7%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82%20%28%D0%A1%D0%9A%2C%202%20%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0%29.pdf)
-- Команда 4.1(спец): [Чек-лист команды 4.1(спец)](ссылка_на_чек_лист_4.1_спец)
+- Команда 4.1(спец): [Чек-лист команды 4.1(спец)](https://github.com/noviyblock/TechTrek-Web-repository/blob/main/%D0%A7%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82%201%20%D1%8D%D1%82%D0%B0%D0%BF%20-%20%D0%A7%D0%B5%D0%BA-%D0%BB%D0%B8%D1%81%D1%82%20%E2%84%961.pdf)
