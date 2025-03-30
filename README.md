@@ -11,6 +11,8 @@
 ### 🛠️ Наш таск-трекер
 [![Jira](https://img.shields.io/badge/-Таск_трекер-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://id.atlassian.com/invite/p/jira-software?id=7DTiqkg_QVmaYbF24pnQvw)
 
+Для просмотра нужен VPN
+
 ### 🎨 Черновой дизайн
 [![Figma](https://img.shields.io/badge/-Брендбук_и_макеты-FF726B?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/YlVnYOEYRukFRYZZsrmGnH/3%D0%9A%D0%90?node-id=0-1&t=XnexoksD3CxK5pXI-1)
 
@@ -19,6 +21,7 @@
 - 📋 [Техническое задание](Техническое%20задание.pdf)  
 - 📊 [Наши диаграммы](Приложения/Диаграммы/png)  
 - 📡 [Проект схемы API](https://publictransport2025.github.io/api/api.html)
+- Правила коммитов (код-стайл) указаны в readme для каждого репозитория
 
 ---
 ## 📬 Контакты
