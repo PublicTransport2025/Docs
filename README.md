@@ -52,7 +52,7 @@
 - [PDF в репозитории](Кросс-проверки.pdf)
 
 ### Чек-листы других команд
-- Команда 6.1: [Чек-лист команды 6.1](ссылка_на_чек_лист_6.1)
+- Команда 6.1: [Чек-лист команды 6.1](https://gitlab.usr0.ru/tailoredtastes/tailoredtastes-documentation/-/tree/master/%D0%9A%D1%80%D0%BE%D1%81%D1%81-%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0?ref_type=heads)
 - Команда 6.3: [Чек-лист команды 6.3](https://github.com/VisualMusic-VSU/visualmusic/blob/main/docs/business/check.xlsx)
 - Команда 4.2: [Чек-лист команды 4.2](https://github.com/I-want-pizza/QWality/blob/db488a1e794473a015df8cb8fc7b1416ed381151/docs/teams_score/%D0%A7%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82_1_%D1%8D%D1%82%D0%B0%D0%BF.pdf)
 - Команда 4.2(спец): [Чек-лист команды 4.2(спец)](https://github.com/anya-ananasss/Defense-Discover/blob/main/Documentation%2F%D0%A7%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82%20%28%D0%A1%D0%9A%2C%202%20%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0%29.pdf)
