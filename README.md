@@ -16,6 +16,10 @@
 🔧 **Демонстрация MVP**  
 [![VK Video](https://img.shields.io/badge/-Смотреть_демонстрацию-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vkvideo.ru/video-230360685_456239018)  
 
+🚦 **Загрузить MVP**  
+[![GitHub release](https://img.shields.io/github/v/release/PublicTransport2025/Mobile)](https://github.com/PublicTransport2025/Mobile/releases/tag/v0.1.0)
+
+
 ### 🛠️ Наш таск-трекер
 [![Jira](https://img.shields.io/badge/-Таск_трекер-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://id.atlassian.com/invite/p/jira-software?id=XHddNmmtTIuPI0KkGDPWmQ)
 
