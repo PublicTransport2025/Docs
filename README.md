@@ -71,14 +71,14 @@
 - [PDF в репозитории Этап 2](Этап%20MVP/Транспорт%202025%20Чеклист%202%20этап.pdf)
 
 ### Чек-листы других команд этап 1
-- Команда 6.1: [Чек-лист команды 6.1](https://gitlab.usr0.ru/tailoredtastes/tailoredtastes-documentation/-/tree/master/%D0%9A%D1%80%D0%BE%D1%81%D1%81-%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0?ref_type=heads)
+- Команда 6.1: [Чек-лист команды 6.1](https://gitlab.usr0.ru/tailoredtastes/tailoredtastes-documentation/-/blob/master/%D0%9A%D1%80%D0%BE%D1%81%D1%81-%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0/%D0%9A%D1%80%D0%BE%D1%81%D1%81-%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0%20%D0%A2%D0%9F%206.1.pdf)
 - Команда 6.3: [Чек-лист команды 6.3](https://github.com/VisualMusic-VSU/visualmusic/blob/main/docs/check/first-stage-check.pdf)
 - Команда 4.2: [Чек-лист команды 4.2](https://github.com/I-want-pizza/QWality/blob/db488a1e794473a015df8cb8fc7b1416ed381151/docs/teams_score/%D0%A7%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82_1_%D1%8D%D1%82%D0%B0%D0%BF.pdf)
 - Команда 4.2(спец): [Чек-лист команды 4.2(спец)](https://github.com/anya-ananasss/Defense-Discover/blob/main/Documentation%2F%D0%A7%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82%20%28%D0%A1%D0%9A%2C%202%20%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0%29.pdf)
 - Команда 4.1(спец): [Чек-лист команды 4.1(спец)](https://github.com/noviyblock/TechTrek-Web-repository/blob/main/%D0%A7%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82%201%20%D1%8D%D1%82%D0%B0%D0%BF%20-%20%D0%A7%D0%B5%D0%BA-%D0%BB%D0%B8%D1%81%D1%82%20%E2%84%961.pdf)
 
 ### Чек-листы других команд этап 2
-- Команда 6.1: [Чек-лист команды 6.1](https://gitlab.usr0.ru/tailoredtastes/tailoredtastes-documentation/-/tree/master/%D0%9A%D1%80%D0%BE%D1%81%D1%81-%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0?ref_type=heads)
+- Команда 6.1: [Чек-лист команды 6.1](https://gitlab.usr0.ru/tailoredtastes/tailoredtastes-documentation/-/blob/master/%D0%9A%D1%80%D0%BE%D1%81%D1%81-%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0/%D0%9A%D1%80%D0%BE%D1%81%D1%81-%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0%20%D0%A2%D0%9F%206.1%202%20%D1%8D%D1%82%D0%B0%D0%BF.pdf)
 - Команда 6.3: [Чек-лист команды 6.3](https://github.com/VisualMusic-VSU/visualmusic/blob/main/docs/check/second-stage-check.pdf)
 - Команда 4.2: [Чек-лист команды 4.2](https://github.com/I-want-pizza/QWality/blob/88be92d58178c8b91e3ab7b066cc00c24d141450/docs/teams_score/%D0%A7%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82%202%20%D1%8D%D1%82%D0%B0%D0%BF.pdf)
 - Команда 4.2(спец): [Чек-лист команды 4.2(спец)](https://github.com/anya-ananasss/Defense-Discover/blob/main/Documentation/%D0%A2%D0%9F.%20%D0%A7%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82%202%20%D1%8D%D1%82%D0%B0%D0%BF.pdf)
