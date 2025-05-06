@@ -68,7 +68,7 @@
 - [Google Таблица Этап 1](https://docs.google.com/spreadsheets/d/1HykMUZnbwDM_4M6yXX6ubWmZNCqc3tGkh4k-YAq8fiY/edit?gid=0#gid=0)
 - [PDF в репозитории Этап 1](Этап%20ТЗ/Кросс-проверки.pdf)
 - [Google Таблица Этап 2](https://docs.google.com/spreadsheets/d/1IY3GdlFAdJ8vuNUuW-5wpiyEXh8Om8WxDnoXOvodT3o/edit?gid=0#gid=0)
-- [PDF в репозитории Этап 2](Этап%20ТЗ/Кросс-проверки.pdf)
+- [PDF в репозитории Этап 2](Этап%20MVP/Транспорт%202025%20Чеклист%202%20этап.pdf)
 
 ### Чек-листы других команд этап 1
 - Команда 6.1: [Чек-лист команды 6.1](https://gitlab.usr0.ru/tailoredtastes/tailoredtastes-documentation/-/tree/master/%D0%9A%D1%80%D0%BE%D1%81%D1%81-%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0?ref_type=heads)
