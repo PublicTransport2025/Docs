@@ -16,7 +16,9 @@
 🔧 **Демонстрация MVP**  
 [![VK Video](https://img.shields.io/badge/-Смотреть_демонстрацию-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vkvideo.ru/video-230360685_456239018)  
 
-🚦 **Загрузить MVP**  
+🚦 **Загрузить MVP**  \[**DEPRECATED**\]
+*Работать не будет в связи с обновлением возможностей сервера*
+
 [![GitHub release](https://img.shields.io/github/v/release/PublicTransport2025/Mobile)](https://github.com/PublicTransport2025/Mobile/releases/tag/v0.1.0)
 
 
