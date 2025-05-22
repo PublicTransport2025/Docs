@@ -22,11 +22,11 @@
 
 [![GitHub release](https://img.shields.io/github/v/release/PublicTransport2025/Mobile)](https://github.com/PublicTransport2025/Mobile/releases/tag/v0.1.0)
 
-🚦 **Технический релиз 0.1.1**
+🚦 **Технический релиз 0.1.2**
 
 *Актуальная версия*
 
-[![GitHub release](https://img.shields.io/github/v/release/PublicTransport2025/Mobile)](https://github.com/PublicTransport2025/Mobile/releases/tag/v0.1.1)
+[![GitHub release](https://img.shields.io/github/v/release/PublicTransport2025/Mobile)](https://github.com/PublicTransport2025/Mobile/releases/tag/v0.1.2)
 
 
 ### 🛠️ Наш таск-трекер
