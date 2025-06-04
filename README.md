@@ -5,6 +5,10 @@
 ---
 ## 🔗 Полезные ссылки
 
+### 🚦 Финальная версия мобильного приложения
+
+[![GitHub release](https://img.shields.io/github/v/release/PublicTransport2025/Mobile)](https://github.com/PublicTransport2025/Mobile/releases/tag/v0.1.5)
+
 ### 📼 Видео защиты ТЗ
 [![Google Drive](https://img.shields.io/badge/-Видеопрезентация_ТЗ-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1yxZZP442D4Zxdx_cOVYGXXymLhx-tv3n/view?usp=sharing)
 
@@ -15,14 +19,6 @@
 
 🔧 **Демонстрация MVP**  
 [![VK Video](https://img.shields.io/badge/-Смотреть_демонстрацию-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vkvideo.ru/video-230360685_456239018)  
-
-
-🚦 **Технический релиз 0.1.4**
-
-*Актуальная версия*
-
-[![GitHub release](https://img.shields.io/github/v/release/PublicTransport2025/Mobile)](https://github.com/PublicTransport2025/Mobile/releases/tag/v0.1.4)
-
 
 ### 🛠️ Наш таск-трекер
 [![Jira](https://img.shields.io/badge/-Таск_трекер-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://id.atlassian.com/invite/p/jira-software?id=XHddNmmtTIuPI0KkGDPWmQ)
