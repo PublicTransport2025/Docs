@@ -7,7 +7,7 @@
 
 ### 🚦 Финальная версия мобильного приложения
 
-[![GitHub release](https://img.shields.io/github/v/release/PublicTransport2025/Mobile)](https://github.com/PublicTransport2025/Mobile/releases/tag/v0.1.5)
+[![GitHub release](https://img.shields.io/github/v/release/PublicTransport2025/Mobile)](https://github.com/PublicTransport2025/Mobile/releases/tag/v0.1.5a)
 
 ### 📼 Видео защиты ТЗ
 [![Google Drive](https://img.shields.io/badge/-Видеопрезентация_ТЗ-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1yxZZP442D4Zxdx_cOVYGXXymLhx-tv3n/view?usp=sharing)
